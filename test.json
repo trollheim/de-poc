@@ -1,0 +1,14 @@
+[
+  {  "name" : "STATE_1",
+     "value" : "State_PL",
+     "script":  "state[country] = 'PL'"
+  },
+  {  "name" : "STATE_2",
+    "value" : "State_UK",
+    "script":  "state[country] = 'UK'"
+  },
+  {  "name" : "STATE_3",
+    "value" : "State_US",
+    "script":  "state[country] = 'US'"
+  }
+]
